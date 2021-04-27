@@ -1,0 +1,38 @@
+PODS:
+  - CropViewController (2.5.3)
+  - EmptyDataSet-Swift (5.0.0)
+  - Instructions (2.0.0)
+  - Realm (5.2.0):
+    - Realm/Headers (= 5.2.0)
+  - Realm/Headers (5.2.0)
+  - RealmSwift (5.2.0):
+    - Realm (= 5.2.0)
+  - SSZipArchive (2.2.3)
+
+DEPENDENCIES:
+  - CropViewController
+  - EmptyDataSet-Swift
+  - Instructions
+  - RealmSwift
+  - SSZipArchive
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CropViewController
+    - EmptyDataSet-Swift
+    - Instructions
+    - Realm
+    - RealmSwift
+    - SSZipArchive
+
+SPEC CHECKSUMS:
+  CropViewController: a5c143548a0fabcd6cc25f2d26e40460cfb8c78c
+  EmptyDataSet-Swift: eb382c0c87a2d9c678077385a595cec52da38171
+  Instructions: debf9cedeaf8d095108fd35d2c54b97ccf769e65
+  Realm: f749c723e272f08fdf1939af5e61d2bd09b203e8
+  RealmSwift: bf0ab78b52c5bafba8b3ad73be8dfb4c1ea5cf01
+  SSZipArchive: 62d4947b08730e4cda640473b0066d209ff033c9
+
+PODFILE CHECKSUM: 03177c37bddf5224699167b8e26a39993d98c643
+
+COCOAPODS: 1.5.2
